@@ -1,2 +1,8 @@
 # AutoComplete
- A simple auto complete feature demo
+Installation
+import the schema from db.sql
+import data in country table from data.csv
+
+Run
+build: docker build -t app:1.0
+run: docker run -p 7070:7070 app:1.0
