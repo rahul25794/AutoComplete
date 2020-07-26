@@ -1,0 +1,16 @@
+com/autocomplete/ExceptionTranslator.class
+com/autocomplete/generated/jooq/tables/records/CountryRecord.class
+com/autocomplete/DemoApplication.class
+com/autocomplete/generated/jooq/tables/Country.class
+com/autocomplete/DBContext.class
+com/autocomplete/controller/SuggestionController.class
+com/autocomplete/generated/jooq/Tables.class
+com/autocomplete/generated/jooq/Keys.class
+com/autocomplete/generated/jooq/Indexes$Indexes0.class
+com/autocomplete/generated/jooq/Keys$Identities0.class
+com/autocomplete/generated/jooq/DefaultCatalog.class
+com/autocomplete/generated/jooq/Indexes.class
+com/autocomplete/repository/CountriesRepository.class
+com/autocomplete/generated/jooq/Test.class
+com/autocomplete/generated/jooq/Keys$UniqueKeys0.class
+com/autocomplete/generated/jooq/tables/pojos/Country.class

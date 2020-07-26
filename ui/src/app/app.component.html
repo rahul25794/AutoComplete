@@ -1,0 +1,14 @@
+<div class="textbox dropdown">
+  <input #input placeholder="Search country" autocomplete="disabled" (keyup)="suggest()" (focus)="focus()"
+    [(ngModel)]="term" />
+  <div *ngIf="hasSuggestions" class="suggestions dropdown-menu" style="display: block !important;">
+    <div *ngIf="suggestions.length>0">
+      <span class="dropdown-item" *ngFor="let suggestion of suggestions" (click)="select(suggestion.name)">
+        {{suggestion.name}}
+      </span>
+    </div>
+    <div *ngIf="suggestions.length < 1" style="padding: 10px;">
+      No country with this name
+    </div>
+  </div>
+</div>

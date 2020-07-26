@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.autocomplete.demo.autocomplete.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.703 s - in com.autocomplete.demo.autocomplete.DemoApplicationTests

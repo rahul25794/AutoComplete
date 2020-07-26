@@ -1,0 +1,23 @@
+input {
+  border: 0px;
+  width: calc(100% - 20px);
+  outline: none;
+  margin-left: 10px;
+}
+
+.textbox {
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  width: 80%;
+  margin: auto;
+  background: white;
+}
+
+.suggestions {
+  display: block !important;
+  margin-left: 15px;
+  margin-top: -1px;
+  display: block !important;
+  width: calc(100% - 30px);
+}
