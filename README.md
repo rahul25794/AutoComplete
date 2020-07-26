@@ -1,8 +1,9 @@
 # AutoComplete
 A simple country name suggestion component using mysql, spring boot and docker.
 ## Installation
- import the schema from db.sql
- import data in country table from data.csv
+ Assuming that the mysql is installed on the device (we may use some dedicated service in prod)
+ -import the schema from db.sql
+ -import data in country table from data.csv
 
 ## Run
 ### build:
